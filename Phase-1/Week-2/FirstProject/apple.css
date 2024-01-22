@@ -1,8 +1,13 @@
 
-/* .continer{
+.continer h1 , h3 {
     text-align: center;
-    justify-content: space-between;
-} */
+    /* justify-content: space-between; */
+}
+
+.continer p, h2, header,ul{
+    margin-left: 200px;
+    margin-right: 200px;
+}
 
 .search{
 
@@ -18,7 +23,7 @@ max-height: 20px;
     color: #1d1d1f;
     font-style: normal;
 }
-/* .body > p{
-    text-align: center;
+.body > p{
+    text-align: left;
     
-} */
+}
