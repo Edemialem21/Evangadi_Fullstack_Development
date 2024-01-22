@@ -4,11 +4,23 @@
     /* justify-content: space-between; */
 }
 
-.continer p, h2, header,ul{
+.continer p, h2,ul{
     margin-left: 200px;
     margin-right: 200px;
 }
+header {
+    padding: 10px;
 
+  }
+  header ul li{
+    display: inline;
+    margin-right: 10px;
+  }
+  header ul li a{
+    color: inherit ;
+    text-decoration: none;
+  }
+  
 .search{
 
 max-height: 20px;
@@ -26,4 +38,12 @@ max-height: 20px;
 .body > p{
     text-align: left;
     
+}
+footer div {
+    display: inline-block;
+}
+footer > div >a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
 }
