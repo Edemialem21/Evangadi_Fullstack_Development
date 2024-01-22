@@ -1,0 +1,24 @@
+
+/* .continer{
+    text-align: center;
+    justify-content: space-between;
+} */
+
+.search{
+
+max-height: 20px;
+}
+.body{
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    color: #1d1d1f;
+    font-style: normal;
+}
+/* .body > p{
+    text-align: center;
+    
+} */
