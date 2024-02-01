@@ -25,7 +25,31 @@ the following are already ready.
       - the very basic requirment needed to launch/deploy a website the  first time. (it may follows waterfall)
       -->
 
-      <!-- Before to starting to build any website
+      <!-- Before to starting9 to build any website
       
-      - step 0: Gather all the necessary compones
-          --ss -->
+      - step 0: Gather all the necessary compones of the website
+      - step 2: look at the desighn and try to draft out how to organize the pieces using containers.
+      - step 3: convert the intitial draft of the structure you came up with into HTML.
+      - step 4: give names to your containers to allow you to select them later when you want to style your containers.
+      -step 5: organizing your folder structure for your project.
+      -step 6: start working on developing the website.
+
+
+      Phases:
+      1. Requirement analysis phase
+        identinfing purpose
+        identifing goal
+        identifing target audience
+        scoping
+      2. Designing/ Planning phase
+        content development 
+        wireframe
+        actual design
+      3. development phase(the web developers comes here )
+      4. testing phase
+      5. Launch phase
+      6. maintenance phase
+
+      --> always make sure that set the width of the container 
+      --> and then to make to the center use margin with 0 and auto for the lefte and right side
+          
