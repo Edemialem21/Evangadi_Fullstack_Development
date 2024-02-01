@@ -1,0 +1,31 @@
+    <!-- wire frame : >>> is from the design team which is given as requirment analysis - which shows each buttonn direction and all the layout as an image -->
+<!-- website development phase
+-1- waterfall - requirment - solid (clear) - time consuming for development - which may not working at the end of the launching time.
+     
+-2- agile : is a way to manage a project by breaking it up into several phases.
+- production depending on the feedbck gathered (starting from the smallest to the biggest.
+- is a seqquentiall development process that flow like a waterfall throlugh all phase of a project.
+- which is pyramid style)- which is procedural in production phase.
+the following are already ready.
+  - content
+  - navigation(wire-frame)
+  - design(including the images to use)
+ -->
+
+ <!-- scrum - the methdologies which is used to implement agile software development phase -->
+    <!-- scrum master
+      -- daily meetiing
+     -- weekly progress report
+      -- sprit review
+       -- launch
+     -->
+
+     <!-- 
+      MVP(minimum viable product)
+      - the very basic requirment needed to launch/deploy a website the  first time. (it may follows waterfall)
+      -->
+
+      <!-- Before to starting to build any website
+      
+      - step 0: Gather all the necessary compones
+          --ss -->
